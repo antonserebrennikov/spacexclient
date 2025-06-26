@@ -1,0 +1,4 @@
+{
+	"name": "Game.Utils.Coordinates",
+	"references":[ "GUID:480d17b325b3c4ff0b5684fb58e03a8e", "GUID:4a8ec33157d6344729440dba43b2730a" ]
+}

@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_GUID: e4ffaa92361694836a43b0b4ce85bcc5
+  m_SerializeEntries:
+  - m_GUID: 2008c7df702a54f59844e23b4298cf02
+    m_Address: Prefabs/UI/SpaceUIPresenter
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 715f2aad27695406699418e7c06874f5
+    m_Address: Text/Roadster
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b61a2fec42e47453da6d08a59f521b81
+    m_Address: Prefabs/UI/MissionDetailsPresenter
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd63fff1306e34c918dec424326fbe54
+    m_Address: Prefabs/UI/MissionsPresenter
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c259476772f6d4e92b036be21c3fbf2b
+    m_Address: Prefabs/UI/LoadingPresenter
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec14d096834914fb4b93caf57937d0ce
+    m_Address: Prefabs/UI/MainMenuPresenter
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3ba3dd07d59ac45209b76ae7903a71f2, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 47aaec5b7bc444b50be56632ce055491, type: 2}
+    - {fileID: 11400000, guid: cbc3e49cd0bbb4b1cabe2168c2edabe7, type: 2}

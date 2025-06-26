@@ -1,0 +1,14 @@
+{
+    "name": "Game.Utils.Parser.Csv",
+    "rootNamespace": "",
+    "references": ["GUID:4a8ec33157d6344729440dba43b2730a"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Game.Presenter",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b3e0e0df9cc6d4e2ebae1721ace66f77",
+        "GUID:6152e889ef0ef433e980644149b98229",
+        "GUID:73ca49c170b2249d59863acd58a10ed0",
+        "GUID:26f96e55ac9774c51b9cdf518a3374ad",
+        "GUID:a2ae90695135d4e0e9d69ec74d49f764",
+        "GUID:5e6c06fa193de4e11ac09d3c42dca37c",
+        "GUID:683eb415c59a66c40b09d8cf1710d72f",
+        "GUID:6b9a11676dcd248db8b758386b380f42",
+        "GUID:98ace7df66b0541f1ab58c473750e2be",
+        "GUID:480d17b325b3c4ff0b5684fb58e03a8e",
+        "GUID:f5f6d8cb86ca64380add301db74d3537",
+        "GUID:a39cd0937343442acb775838c0f0b40f",
+        "GUID:4a8ec33157d6344729440dba43b2730a",
+        "GUID:56e6e4e8922c5401c8bfd5903a1e5b71",
+        "GUID:2c5297a08a8d1443ebae207b731a9460"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

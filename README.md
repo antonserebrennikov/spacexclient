@@ -1,4 +1,4 @@
-# Unity SpaceX API Client
+# Task: Unity SpaceX API Client
 
 Your task is to prepare Unity project that will fetch data from API and display SpaceX's Tesla Roadster orbiting around the sun in 3D space and 
 an interface that will list all SpaceX launches with additional details about the launch provided when interacting with any launch on the 
@@ -7,6 +7,8 @@ list.
 SpaceX API: https://github.com/r-spacex/SpaceX-API/tree/master/docs#rspacex-api-docs
 
 **Required Unity version: 6000.1.4f1**
+
+## Implementation is here >>> [README.MD](SpaceXClient/README.md)
 
 ## Objectives
 
@@ -36,3 +38,5 @@ SpaceX API: https://github.com/r-spacex/SpaceX-API/tree/master/docs#rspacex-api-
 * SpaceX Launches browser should use object pooling to optimize resources consumption
 * Use an async/await pattern
 * Adhere to the SOLID principles
+
+## Implementation is here >>> [README.MD](SpaceXClient/README.md)
